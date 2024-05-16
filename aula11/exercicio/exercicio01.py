@@ -4,7 +4,7 @@
 soma = 0
 contador = 1 
 
-while contador < 4: 
+while contador < 5: 
     mensagem = 'Digite o ' + str(contador) + 'º número: '; 
     numero = int(input(mensagem))
     
